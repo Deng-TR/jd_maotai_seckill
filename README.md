@@ -1,9 +1,7 @@
 # 有什么问题请看这里[关于删除jd_seckill代码的通知](https://github.com/huanghyw/jd_seckill/tree/main)
 # 我就不修改了，有啥问题会写代码的自己改改吧！最近股市行情好，茅台的事情放到明年了，炒股赚钱去了。
 说句实话有点看不上茅台这点钱了.....
-自己赚钱不如带大家一起赚钱，独乐乐不如众乐乐
 
-有需要炒股赚钱的加群吧
 
 <table id='wechat_group1'>
  <tr><td id='group_8'>
@@ -17,9 +15,6 @@
 # Jd_Seckill
 请安装python 3.8 运行此项目，就不会出现各种问题了
 
-下一步打算出windows，mac系统上的安装程序
-
-windows目前已经打包完毕，请下载`jd_maotai_20210102.zip`文件，解压，双击`main.exe`即可运行，但是仍然需要在解压文件中填写config.ini配置信息 `eid`和`fp` 还是需要填写的哦，千万不要忘记哦！！！
 
 ## 优化内容
 2021-01-02 优化购买时间
