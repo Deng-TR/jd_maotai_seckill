@@ -3,15 +3,6 @@
 说句实话有点看不上茅台这点钱了.....
 
 
-<table id='wechat_group1'>
- <tr><td id='group_8'>
-            <img src="?size=140">
-            <h4 align='center'>😭</h4>
-        </td>
-    </tr>
-</table>
-
-
 # Jd_Seckill
 请安装python 3.8 运行此项目，就不会出现各种问题了
 
